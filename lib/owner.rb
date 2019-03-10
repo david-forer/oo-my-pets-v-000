@@ -29,7 +29,7 @@ class Owner
   end
 
   def species
-    self.species
+    self.name
   end
 
   def say_species
